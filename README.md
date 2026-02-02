@@ -3,4 +3,4 @@ This is my practicals python notebooks submission for AI lab which consistt of P
 Assignments for 6,7,8,11 and 12 are submitted in the form of a project which consists of 3 working model for leaf disease prediction using ResNet50. :)
 heyy
 hey this change is made on 30 june 1240 hrs
-changed html file a lil bit 14072025
+changed html file a lil bit 14072025 too long 
